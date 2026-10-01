@@ -6,5 +6,5 @@
 <img width="2000" height="2000" alt="Branco" src="https://github.com/user-attachments/assets/c4f23dd2-f8ef-4929-b881-adcd6e8f21d7" />
 <img width="2500" height="2000" alt="Bordas Onduladas" src="https://github.com/user-attachments/assets/ba113ccb-617e-414f-b4f7-3cff66f89628" />
 <img width="2000" height="2000" alt="Logo" src="https://github.com/user-attachments/assets/1b6bc6fa-92c9-48bd-99b0-097e9e32476f" />
-<img width="2000" height="2000" alt="metade" src="https://github.com/user-attachments/assets/b5637030-1fd8-48df-a015-0974b11c4a8b" />
+<img width="2000" height="2000" alt="Metade" src="https://github.com/user-attachments/assets/b5637030-1fd8-48df-a015-0974b11c4a8b" />
 https://github.com/user-attachments/assets/29fe565d-39f9-484a-bb1b-44b277a898a1
